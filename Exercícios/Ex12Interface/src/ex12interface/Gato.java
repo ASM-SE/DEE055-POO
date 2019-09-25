@@ -6,7 +6,7 @@ public class Gato extends Felino implements Animal, Mamifero{
 
     //Por implementar uma interface é obrigado a implementar os métodos existentes
     @Override
-    public void fazerBarulo() {
+    public void fazerBarulho() {
         System.out.println("Fazendo barulho!");
     }
     

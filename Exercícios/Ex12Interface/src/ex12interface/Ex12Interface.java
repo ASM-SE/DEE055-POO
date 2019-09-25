@@ -16,7 +16,7 @@ public class Ex12Interface {
      */
     public static void main(String[] args) {
         Gato gato = new Gato();
-        gato.fazerBarulo();
+        gato.fazerBarulho();
         gato.miar();
     }
     
