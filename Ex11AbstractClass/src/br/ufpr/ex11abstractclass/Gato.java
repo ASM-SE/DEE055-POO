@@ -2,7 +2,7 @@
 package br.ufpr.ex11abstractclass;
 
 
-public class Gato extends Animal{
+public class Gato extends Animal{ //Herança - normal de classe abstrata para classe contreta
 
     /*
     Enquanto uma classe concreta não obriga a classe filha a sobrescrever seu método

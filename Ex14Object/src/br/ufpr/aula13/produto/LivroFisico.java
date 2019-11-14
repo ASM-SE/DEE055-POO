@@ -8,7 +8,7 @@ public class LivroFisico extends Livro implements Promocional {
         super(autor);
     }
 
-    @Override
+    @Override //Sobrescrito - polimorfismo... Aqui eu coloco algo no corpo do método... Tenho que colocar!! Obrigatoriamente!
     public boolean aplicaDescontoDe(double porcentagem) {
         return false;
     }
